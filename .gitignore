@@ -1,0 +1,14 @@
+# OS・一時ファイル
+.DS_Store
+*.tmp
+
+# 秘密情報（誤って置いても公開されないように）
+.env
+.env.*
+*.key
+*.pem
+*credentials*
+*secret*
+
+# ローカル環境設定
+*.local
